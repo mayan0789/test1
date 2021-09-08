@@ -32,6 +32,7 @@ public class CollegeModel {
 
 	public long add(CollegeBean bean) throws Exception {
 
+		// commmentt 
 		// Class.forName("com.mysql.jdbc.Driver");
 		Connection conn = null;
 		int pk = 0;
